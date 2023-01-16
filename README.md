@@ -67,3 +67,30 @@ Career goals, technical development at specialist level, development of leadersh
     <!-- Email --><a href = "mailto:allisonjulioo@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Whatsapp --><a href = "https://api.whatsapp.com/send?phone=5531998901408&text=Oi!%20vi%20seu%20perfil%20no%20github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+### Public repositories
+
+| Repository                                                    | Demonstratoion                                                | Langage    | Api                                                      |
+| ------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | -------------------------------------------------------- |
+| https://github.com/allisonjulioo/BeTheHero                    | https://bethehero-app-allison.netlify.app                     | ReactJs    | None                                                     |
+| https://github.com/allisonjulioo/MeliUi                       | https://meli-ui.netlify.app/#/                                | ReactJs    | https://github.com/allisonjulioo/ApiMeliUi               |
+| https://github.com/allisonjulioo/PokedexApp                   | https://pokedex-app-interface.netlify.app/                    | ReactJs    | https://github.com/allisonjulioo/PokedexApi              |
+| https://github.com/allisonjulioo/BlipOrder                    | https://blip-order.netlify.app/                               | ReactJs    | https://github.com/allisonjulioo/GenericApiJsonServer    |
+| https://github.com/allisonjulioo/TicketsOnline                | https://allisonjulioo.github.io/TicketsOnline/                | ReactJs    | https://github.com/allisonjulioo/BilheteriaOnlineBackend |
+| https://github.com/allisonjulioo/TreeSelectReact              | https://three-select-react.netlify.app/                       | ReactJs    | None                                                     |
+| https://github.com/allisonjulioo/AnimatedLoginReactTypescript | https://animated-login-motion.netlify.app/                    | ReactJs    | None                                                     |
+| https://github.com/allisonjulioo/Ubook                        | https://ubook-schedule.netlify.app/                           | Vuejs      | None                                                     |
+| https://github.com/allisonjulioo/FunRetro                     | https://fun-retros.netlify.app                                | Vuejs      | None                                                     |
+| https://github.com/allisonjulioo/TesteCovid19                 | https://allisonjulioo.github.io/TesteCovid19/                 | Vuejs      | None                                                     |
+| https://github.com/allisonjulioo/FoxRetro                     | https://fox-retro.netlify.app/                                | Angular 15 | https://github.com/allisonjulioo/ApiFoxRetro             |
+| https://github.com/allisonjulioo/WallettDocs                  | https://wallet-docs-ng.netlify.app/#/main                     | Angular 10 | https://github.com/allisonjulioo/BackEndIterateApp       |
+| https://github.com/allisonjulioo/InventoryManagement          | https://inventory-management-ng.netlify.app                   | Angular 10 | https://github.com/allisonjulioo/GenericApiJsonServer    |
+| https://github.com/allisonjulioo/WordpressPosts               | https://wordpress-posts.netlify.app/                          | Angular 10 | None                                                     |
+| https://github.com/allisonjulioo/DemaciaChallenge             | https://demacia-challenge.netlify.app/                        | Angular 10 | None                                                     |
+| https://github.com/allisonjulioo/SchoolMananger               | https://schooll-manager.netlify.app/                          | Angular 10 | None                                                     |
+| https://github.com/allisonjulioo/GenerateAccountAndAgency     | https://allisonjulioo.github.io/GenerateAccountAndAgency/     | HTML       | None                                                     |
+| https://github.com/allisonjulioo/FacebookInterface            | https://allisonjulioo.github.io/FacebookInterface/            | HTML       | None                                                     |
+| https://github.com/allisonjulioo/SvgSquareNightDay            | https://allisonjulioo.github.io/SvgSquareNightDay/            | HTML       | None                                                     |
+| https://github.com/allisonjulioo/DetranSpWebPage              | https://allisonjulioo.github.io/DetranSpWebPage               | HTML       | None                                                     |
+| https://github.com/allisonjulioo/CssEffectResponsiveFlipCards | https://allisonjulioo.github.io/CssEffectResponsiveFlipCards/ | HTML       | None                                                     |
+
